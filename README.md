@@ -1,8 +1,8 @@
 # Hi there, I'm Raffay 👋  
 
-💻 Data Scientist & AI Engineer | Chatbots | NLP | Recommender Systems  
+💻 Data Scientist | AI & ML Engineer | NLP Enthusiast | Chatbots |
 🚀 Passionate about building intelligent systems that improve user experience  
-🌱 Currently learning MLOps & full-stack AI app deployment  
+🌱 Currently exploring MLOps & full-stack AI deployment
 
 ---
 
@@ -16,21 +16,32 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDD00?style=flat&logo=huggingface&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
-
+ 
 ## 🚀 Featured Projects
 
 ### 🧠 [Doctor-AI](https://doctor-ai-final.vercel.app)
-AI-assisted virtual psychologist chatbot with **mood detection, sentiment analysis, and recommendation engine**.  
-- Built with Python (BlenderBot, SiBERT), Firebase, and Next.js  
-- Deployed frontend: [doctor-ai-final.vercel.app](https://doctor-ai-final.vercel.app)  
+AI-assisted virtual psychologist chatbot that detects moods, analyzes sentiment, and offers personalized recommendations.  
+- Built with BlenderBot, SiBERT, Firebase & Next.js  
+- [Live Demo](https://doctor-ai-final.vercel.app)  
 
-### 🤖 Chatbot with Emotion Detection
-Custom chatbot integrated with **emotion + sentiment recognition** to provide adaptive responses.  
+---
 
-### 📚 Document Repository AI
-Intelligent document Q&A system with NLP and vector search for fast information retrieval.  
+###  🌦️ MLOps Pipeline for Innovate Analytics Inc.
+Hands-on project demonstrating MLOps practices with data & model versioning and workflow automation.  
+- Implemented **DVC** for dataset & model tracking  
+- Designed pipelines with **Apache Airflow** for reproducibility and automation  
+
+---
+
+### 📊 Forecasting System
+Forecasting solution with real-world datasets, statistical and machine learning models, and visualization features.  
+- Covers multiple domains including **energy** and **economics**  
+- Implemented models: **ARIMA, LSTM, Prophet**  
+- Includes **Jupyter notebooks**, interactive **UI**, and clear data insights  
 
 ---
 
@@ -43,8 +54,8 @@ Intelligent document Q&A system with NLP and vector search for fast information 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-link)  
-📧 Email: your.email@example.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffay-ahmed-014715260/)  
+📧 Email: agkraffay01@gmail.com 
 
 ---
 
