@@ -1,11 +1,18 @@
-# Hi there, I'm Raffay 👋  
+# Hi 👋, I'm Raffay
 
-💻 Data Scientist | AI & ML Engineer | NLP Enthusiast | Chatbots |
-🚀 Passionate about building intelligent systems that improve user experience  
-🌱 Currently exploring MLOps & full-stack AI deployment
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&color=2F80ED&center=true&vCenter=true&width=800&height=100&lines=AI%20%26%20ML%20Engineer;Data%20Scientist;NLP%20Specialist;AI%20Chatbot%20Developer;Turning%20Data%20into%20Intelligence;Building%20Smart%20AI%20Systems;Automating%20with%20AI%20%26%20ML;Chatbots%20%26%20Emotion%20Detection)
 
 ---
 
+## 👨‍💻 About Me
+
+- 💻 **Data Scientist & AI Engineer** passionate about building intelligent, human-centric systems  
+- 🤖 Develop **chatbots with emotion detection** and **recommendation engines**  
+- ⚙️ Apply **MLOps practices** for scalable ML model deployment  
+- 🌱 Currently exploring **full-stack AI app deployment** and production-ready workflows  
+- ✨ Believer in *“turning data into meaningful intelligence”*
+
+- 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
