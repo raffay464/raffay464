@@ -1,6 +1,6 @@
 # Hi 👋, I'm Raffay Ahmed
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=AI%20%26%20ML%20Engineer;Data%20Scientist;NLP%20Specialist;AI%20Chatbot%20Developer;Turning%20Data%20into%20Intelligence;Automating%20with%20AI%20%26%20ML)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Turning%20Data%20into%20Intelligence)
 ---
 
 ## 👨‍💻 About Me
