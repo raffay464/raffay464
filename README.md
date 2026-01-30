@@ -38,12 +38,12 @@
 ## 🚀 Featured Projects
 
 ### 🧠 [Doctor-AI](https://doctor-ai-final.vercel.app)
-AI-assisted virtual psychologist chatbot that detects moods, analyzes sentiment, and offers personalized recommendations.  
+AI-assisted virtual psychologist that provides mental health support with chatbot assistance that detects moods, analyzes sentiment, and offers personalized recommendations.  
 - Built with BlenderBot, SiBERT, Firebase & Next.js  
 - [Live Demo](https://doctor-ai-final.vercel.app)  
 
 ---
-## 🧠 AI Legal Contract Auditor
+### 🧠 AI Legal Contract Auditor
 - AI Legal Contract Auditor – An AI system that analyzes complex legal contracts using RAG.
 - Extracts key clauses: IP Ownership, Price Restrictions, Non-compete, Termination, Governing Law.
 - Summarizes clauses in plain English and provides risk scoring with exact citations.
