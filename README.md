@@ -43,6 +43,13 @@ AI-assisted virtual psychologist chatbot that detects moods, analyzes sentiment,
 - [Live Demo](https://doctor-ai-final.vercel.app)  
 
 ---
+## 🧠 AI Legal Contract Auditor
+- AI Legal Contract Auditor – An AI system that analyzes complex legal contracts using RAG.
+- Extracts key clauses: IP Ownership, Price Restrictions, Non-compete, Termination, Governing Law.
+- Summarizes clauses in plain English and provides risk scoring with exact citations.
+- Uses LLaMA 3.2 embeddings (Nomic Embed Text), ChromaDB, and parent–child chunking for accurate retrieval.
+- Designed to assist legal professionals by automating contract review while minimizing hallucinations.
+--- 
 
 ###  🌦️ MLOps Pipeline for Innovate Analytics Inc.
 Hands-on project demonstrating MLOps practices with data & model versioning and workflow automation.  
