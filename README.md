@@ -40,7 +40,7 @@
 ### 🧠 [Doctor-AI](https://doctor-ai-final.vercel.app)
 AI-assisted virtual psychologist that provides mental health support with chatbot assistance that detects moods, analyzes sentiment, and offers personalized recommendations.  
 - Built with BlenderBot, SiBERT, Firebase & Next.js  
-- [Live Demo](https://doctor-ai-final.vercel.app)  
+
 
 ---
 ### 🧠 AI Legal Contract Auditor
@@ -67,10 +67,11 @@ Forecasting solution with real-world datasets, statistical and machine learning 
 ---
 
 ## 📊 GitHub Stats
+![Raffay's GitHub Stats](https://github-stats-extended.vercel.app/api?username=raffay464&show_icons=true&theme=tokyonight)
 
-![Raffay's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffay464&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raffay464&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=raffay464&theme=tokyonight)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=raffay464&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=raffay464&theme=tokyonight)
 
 ---
 
