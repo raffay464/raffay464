@@ -13,7 +13,7 @@ I've worked at **Stinxel Technologies** in Pakistan and remotely with **Panni Ma
 
 I enjoy taking AI applications beyond prototypes by focusing on reliable data pipelines, APIs, asynchronous processing, and practical user-facing features.
 
-- 🤖 **Specializations: ** Agentic AI, RAG, NLP, Multi-Agent Systems, Backend Engineering
+- 🤖 **Specializations:** Agentic AI, RAG, NLP, Multi-Agent Systems, Backend Engineering
 - 💼 **Experience:** AI Engineer at Stinxel Technologies & Panni Management
 - 🎓 **Education:** BS Data Science, FAST National University of Computer and Emerging Sciences (2021–2025)
 - 📍 **Location:** Islamabad, Pakistan
